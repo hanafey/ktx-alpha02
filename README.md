@@ -220,7 +220,7 @@ Previous release of library does not have the problem
 
 Change the library to `androidx.core:core-ktx:1.2.0-alpha01` and the problem goes away.
 
-Change the library to `androidx.core:core-ktx:1.2.0-alpha02` and the problem goes away.
+Change the library to `androidx.core:core-ktx:1.2.0-alpha02` and the problem returns.
 
 Links
 -----
